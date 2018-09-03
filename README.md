@@ -1,1 +1,1 @@
-# tizen-APIs-PrivParser
+# tizen-APIs-Privilege-Parser
